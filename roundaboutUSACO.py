@@ -1,9 +1,3 @@
-'''
-nmount=int(input())
-num=[]
-for i in range(nmount):
-    num.append(int(input()))
-'''
 nmount=4
 num=[1,100,4567,3366]
 anstore=[]
